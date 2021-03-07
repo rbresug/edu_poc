@@ -51,7 +51,7 @@ cd ~/testFolder
 
 The high level design is summarized in 
 
-![](doc/DesignViewer.jpg)
+![](doc/DesignViewer1.jpg)
 
 
 
