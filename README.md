@@ -18,7 +18,7 @@
 
 -   run the preprocess.sh script and check the console results log file date_Y_m_d.log
 
-# Design
+# Preconditions and Design
 Preconditions:
 
 1.
@@ -35,15 +35,14 @@ mkdir -p ~/testFolder/raw_videos/work/
 
 2.
 In case not already installed on your machine/DevCloud, install the following Python3 packages:
-
+```
 pip3 install moviepy
 pip3 install numpy
-
 pip3 install opencv-python
+```
 
 
-
-The script is started by running commands
+The script is finally started by running commands
 ```
 cd ~/testFolder
 ./preprocess.sh
